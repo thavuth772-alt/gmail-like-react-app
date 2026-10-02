@@ -21,3 +21,7 @@ npm run dev
 ```
 
 > This is a Gmail-like UI/demo. It does not connect to Gmail or send real email.
+
+## Gmail integration
+
+This project can be connected to the Gmail API using Google authentication. Follow the setup guide in the project documentation.
