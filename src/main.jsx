@@ -8,7 +8,7 @@ import {
 import "./styles.css";
 
 // Replace this placeholder with your Google OAuth Web Client ID.
-const GOOGLE_CLIENT_ID = "PASTE_YOUR_GOOGLE_CLIENT_ID_HERE.apps.googleusercontent.com";
+const GOOGLE_CLIENT_ID = "968581848627-bvcc5ilr20vicucvke29csp3mk2tpnmh.apps.googleusercontent.com";
 const GOOGLE_SCOPE = "https://www.googleapis.com/auth/gmail.modify";
 const GMAIL_API = "https://gmail.googleapis.com/gmail/v1/users/me";
 
